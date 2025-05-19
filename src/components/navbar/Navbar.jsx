@@ -5,14 +5,7 @@ import search from '../../assets/search_icon.svg'
 import bell from '../../assets/bell_icon.svg'
 import prfile from '../../assets/profile_img.png'
 import caret from '../../assets/caret_icon.svg'
-// import caret from '../../assets/caret_icon.svg'
-// import caret from '../../assets/caret_icon.svg'
-// import caret from '../../assets/caret_icon.svg'
-// import caret from '../../assets/caret_icon.svg'
-// import caret from '../../assets/caret_icon.svg'
-// import caret from '../../assets/caret_icon.svg'
-// import caret from '../../assets/caret_icon.svg'
-// import caret from '../../assets/caret_icon.svg'
+
 
 
 const Navbar = () => {
