@@ -25,11 +25,14 @@ const Navbar = () => {
       <div className="navbar-right">
           <img src={search} alt="" className='icons' />
           <p>Children</p>
-          <img src={bell} alt="" />
+          <img src={bell} alt="" className='icons' />
 
           <div className="navbar-profile">
-            <img src={prfile} alt="" />
+            <img src={prfile} alt="" className='profile'/>
             <img src={caret} alt="" />
+            <div className="dropdown">
+              <p>Sign Out</p>
+            </div>
           </div>
       </div>
     </div>
